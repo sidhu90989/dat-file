@@ -1,0 +1,7 @@
+Record size candidate: 16 bytes
+Offset  Size  Meaning                        Examples
+------  ----  ----------------------------  ----------------------------
+0x0000     4  padding/unused                0x9, 0x37, 0x20
+0x0004     4  padding/unused                0x1, 0x2000, 0x16c43
+0x0008     4  padding/unused                0x900, 0x19e0000, 0x1
+0x000c     4  padding/unused                0x53162, 0x3b0fd57c, 0x2

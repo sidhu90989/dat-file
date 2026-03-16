@@ -1,0 +1,29 @@
+Readable Analysis Report
+=
+
+File: 0.0627.dat
+Size: 458752 bytes
+
+Key Findings:
+- Entropy: 6.564 bits/byte (moderate; structured binary or light compression)
+- ASCII strings: 3737
+- UTF-16 strings: 1
+- Embedded headers: none detected
+- JSON fragments: detected in multiple offsets
+- Repeating blocks: present across 256/512/1024/2048/4096-byte sizes
+
+Likely Interpretation:
+- Repeated "ckey!" strings align with encrypted key records used by Bitcoin Core wallets.
+- Hex data includes repeated "76 a9 14 <20-byte> 88 ac" patterns, matching standard Bitcoin P2PKH scriptPubKey templates.
+- Metadata strings like "fromaccount" and "timesmart" are consistent with Bitcoin wallet transaction metadata.
+- The pattern of repeating blocks suggests a paged database layout (Berkeley DB is common for wallet.dat).
+
+Conclusion:
+This file most likely represents a Bitcoin Core-style encrypted wallet database (Berkeley DB), not a generic compressed archive.
+
+Generated Artifacts:
+- strings_output.txt
+- utf16_strings.txt
+- hex_dump.txt
+- analysis_summary.txt
+- full_analysis.txt

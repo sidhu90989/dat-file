@@ -1,0 +1,45 @@
+Forensic Wallet Analysis Report
+=
+
+Target: /workspaces/dat-file/0.0627.dat
+Size: 458752 bytes
+
+Entropy Summary:
+- Global entropy: 6.564 bits/byte
+- Interpretation: Moderate entropy (structured binary or light compression).
+
+Pattern Matches:
+- Base58 addresses: 3
+- Bech32 addresses: 0
+- Ethereum addresses: 0
+- WIF private keys: 0
+- BIP39-like phrases: 0
+
+Compression Detection:
+- Decompressed blocks: 0
+
+Embedded Artifacts:
+- Headers detected: 0
+- Carved artifacts: 0
+- JSON fragments: 21
+
+Block Structure Analysis:
+- 256 bytes: 153 repeated blocks out of 1792 (unique 1640)
+- 512 bytes: 72 repeated blocks out of 896 (unique 825)
+- 1024 bytes: 31 repeated blocks out of 448 (unique 418)
+- 2048 bytes: 12 repeated blocks out of 224 (unique 213)
+- 4096 bytes: 3 repeated blocks out of 112 (unique 110)
+
+Possible Wallet/Database Notes:
+- Review entropy map for structured vs compressed regions.
+- Repeating block sizes can suggest database pages.
+- Carved artifacts and string patterns can indicate wallet formats.
+- Structure map highlights likely record sizes and integer fields.
+
+Detailed Interpretation (Readable Summary):
+- The ASCII strings contain repeated "ckey!" markers, which match the encrypted key record prefix used by Bitcoin Core wallet databases.
+- The hex dump includes repeated script-like byte patterns (e.g., "76 a9 14 <20-byte> 88 ac") that correspond to standard Bitcoin P2PKH scriptPubKey templates.
+- The presence of wallet metadata strings such as "fromaccount" and "timesmart" is consistent with Bitcoin Core wallet transaction metadata entries.
+- The entropy profile shows long high-entropy regions following low-entropy headers, which is typical of structured database pages with encrypted payloads.
+- Repeating block sizes across 256/512/1024 bytes further suggest a paged database layout (Berkeley DB is a common wallet.dat format).
+- Overall likelihood: this file most closely resembles a Bitcoin Core-style encrypted wallet database, not a generic compressed archive.

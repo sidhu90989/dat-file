@@ -1,0 +1,82 @@
+{
+  "bestRecordSize": 16,
+  "recordCandidates": [
+    {
+      "size": 16,
+      "score": 1.0578962053571428,
+      "recordCount": 28672,
+      "zeroHeavy": 13120,
+      "asciiHeavy": 17212
+    },
+    {
+      "size": 1024,
+      "score": 1.0178571428571428,
+      "recordCount": 448,
+      "zeroHeavy": 121,
+      "asciiHeavy": 335
+    },
+    {
+      "size": 768,
+      "score": 1.0067001675041876,
+      "recordCount": 597,
+      "zeroHeavy": 162,
+      "asciiHeavy": 439
+    },
+    {
+      "size": 384,
+      "score": 0.9916247906197655,
+      "recordCount": 1194,
+      "zeroHeavy": 327,
+      "asciiHeavy": 857
+    },
+    {
+      "size": 512,
+      "score": 0.984375,
+      "recordCount": 896,
+      "zeroHeavy": 232,
+      "asciiHeavy": 650
+    }
+  ],
+  "fields": [
+    {
+      "offset": 0,
+      "size": 4,
+      "meaning": "padding/unused",
+      "examples": [
+        "0x9",
+        "0x37",
+        "0x20"
+      ]
+    },
+    {
+      "offset": 4,
+      "size": 4,
+      "meaning": "padding/unused",
+      "examples": [
+        "0x1",
+        "0x2000",
+        "0x16c43"
+      ]
+    },
+    {
+      "offset": 8,
+      "size": 4,
+      "meaning": "padding/unused",
+      "examples": [
+        "0x900",
+        "0x19e0000",
+        "0x1"
+      ]
+    },
+    {
+      "offset": 12,
+      "size": 4,
+      "meaning": "padding/unused",
+      "examples": [
+        "0x53162",
+        "0x3b0fd57c",
+        "0x2"
+      ]
+    }
+  ]
+}

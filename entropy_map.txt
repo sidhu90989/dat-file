@@ -1,0 +1,448 @@
+00000000  0.220  plain/low entropy
+00000400  0.000  plain/low entropy
+00000800  0.000  plain/low entropy
+00000c00  0.000  plain/low entropy
+00001000  0.000  plain/low entropy
+00001400  0.000  plain/low entropy
+00001800  0.000  plain/low entropy
+00001c00  0.000  plain/low entropy
+00002000  0.249  plain/low entropy
+00002400  0.000  plain/low entropy
+00002800  0.000  plain/low entropy
+00002c00  0.000  plain/low entropy
+00003000  0.000  plain/low entropy
+00003400  0.000  plain/low entropy
+00003800  0.000  plain/low entropy
+00003c00  0.097  plain/low entropy
+00004000  0.230  plain/low entropy
+00004400  0.000  plain/low entropy
+00004800  0.000  plain/low entropy
+00004c00  0.171  plain/low entropy
+00005000  0.000  plain/low entropy
+00005400  0.000  plain/low entropy
+00005800  0.000  plain/low entropy
+00005c00  0.000  plain/low entropy
+00006000  7.008  structured binary
+00006400  7.520  compressed/encrypted
+00006800  7.515  compressed/encrypted
+00006c00  7.527  compressed/encrypted
+00007000  7.517  compressed/encrypted
+00007400  7.519  compressed/encrypted
+00007800  7.595  compressed/encrypted
+00007c00  7.207  structured binary
+00008000  6.443  structured binary
+00008400  7.259  structured binary
+00008800  7.254  structured binary
+00008c00  6.900  structured binary
+00009000  7.166  structured binary
+00009400  7.419  structured binary
+00009800  7.275  structured binary
+00009c00  7.028  structured binary
+0000a000  7.063  structured binary
+0000a400  7.569  compressed/encrypted
+0000a800  7.508  compressed/encrypted
+0000ac00  7.592  compressed/encrypted
+0000b000  7.554  compressed/encrypted
+0000b400  7.531  compressed/encrypted
+0000b800  7.518  compressed/encrypted
+0000bc00  7.527  compressed/encrypted
+0000c000  6.988  structured binary
+0000c400  7.527  compressed/encrypted
+0000c800  7.565  compressed/encrypted
+0000cc00  7.566  compressed/encrypted
+0000d000  7.531  compressed/encrypted
+0000d400  7.561  compressed/encrypted
+0000d800  7.524  compressed/encrypted
+0000dc00  7.575  compressed/encrypted
+0000e000  7.134  structured binary
+0000e400  7.537  compressed/encrypted
+0000e800  7.547  compressed/encrypted
+0000ec00  7.568  compressed/encrypted
+0000f000  7.557  compressed/encrypted
+0000f400  7.505  compressed/encrypted
+0000f800  7.577  compressed/encrypted
+0000fc00  7.553  compressed/encrypted
+00010000  3.640  plain/low entropy
+00010400  5.904  plain/low entropy
+00010800  6.075  structured binary
+00010c00  6.079  structured binary
+00011000  6.039  structured binary
+00011400  6.050  structured binary
+00011800  6.101  structured binary
+00011c00  6.265  structured binary
+00012000  0.205  plain/low entropy
+00012400  0.000  plain/low entropy
+00012800  0.000  plain/low entropy
+00012c00  0.000  plain/low entropy
+00013000  0.000  plain/low entropy
+00013400  0.000  plain/low entropy
+00013800  0.443  plain/low entropy
+00013c00  6.295  structured binary
+00014000  6.926  structured binary
+00014400  6.863  structured binary
+00014800  6.823  structured binary
+00014c00  6.795  structured binary
+00015000  6.855  structured binary
+00015400  6.917  structured binary
+00015800  6.908  structured binary
+00015c00  6.883  structured binary
+00016000  6.801  structured binary
+00016400  6.893  structured binary
+00016800  6.882  structured binary
+00016c00  6.936  structured binary
+00017000  6.917  structured binary
+00017400  6.945  structured binary
+00017800  4.559  plain/low entropy
+00017c00  0.000  plain/low entropy
+00018000  6.752  structured binary
+00018400  6.690  structured binary
+00018800  6.671  structured binary
+00018c00  6.601  structured binary
+00019000  5.583  plain/low entropy
+00019400  5.325  plain/low entropy
+00019800  5.362  plain/low entropy
+00019c00  5.323  plain/low entropy
+0001a000  6.714  structured binary
+0001a400  6.912  structured binary
+0001a800  6.826  structured binary
+0001ac00  3.979  plain/low entropy
+0001b000  3.116  plain/low entropy
+0001b400  3.116  plain/low entropy
+0001b800  3.276  plain/low entropy
+0001bc00  3.237  plain/low entropy
+0001c000  6.804  structured binary
+0001c400  6.709  structured binary
+0001c800  6.687  structured binary
+0001cc00  6.631  structured binary
+0001d000  5.628  plain/low entropy
+0001d400  3.782  plain/low entropy
+0001d800  3.886  plain/low entropy
+0001dc00  3.829  plain/low entropy
+0001e000  4.686  plain/low entropy
+0001e400  4.306  plain/low entropy
+0001e800  4.202  plain/low entropy
+0001ec00  4.125  plain/low entropy
+0001f000  6.917  structured binary
+0001f400  7.515  compressed/encrypted
+0001f800  7.602  compressed/encrypted
+0001fc00  7.536  compressed/encrypted
+00020000  7.561  compressed/encrypted
+00020400  7.647  compressed/encrypted
+00020800  7.656  compressed/encrypted
+00020c00  7.643  compressed/encrypted
+00021000  7.653  compressed/encrypted
+00021400  7.611  compressed/encrypted
+00021800  7.637  compressed/encrypted
+00021c00  7.408  structured binary
+00022000  6.712  structured binary
+00022400  6.757  structured binary
+00022800  6.742  structured binary
+00022c00  6.798  structured binary
+00023000  6.777  structured binary
+00023400  6.741  structured binary
+00023800  6.759  structured binary
+00023c00  6.800  structured binary
+00024000  6.722  structured binary
+00024400  6.763  structured binary
+00024800  6.799  structured binary
+00024c00  6.775  structured binary
+00025000  6.821  structured binary
+00025400  6.813  structured binary
+00025800  6.903  structured binary
+00025c00  6.912  structured binary
+00026000  6.840  structured binary
+00026400  6.904  structured binary
+00026800  6.923  structured binary
+00026c00  6.928  structured binary
+00027000  6.976  structured binary
+00027400  6.900  structured binary
+00027800  6.879  structured binary
+00027c00  6.885  structured binary
+00028000  6.791  structured binary
+00028400  6.936  structured binary
+00028800  6.957  structured binary
+00028c00  6.925  structured binary
+00029000  6.922  structured binary
+00029400  6.979  structured binary
+00029800  6.935  structured binary
+00029c00  3.028  plain/low entropy
+0002a000  6.727  structured binary
+0002a400  6.871  structured binary
+0002a800  6.833  structured binary
+0002ac00  6.815  structured binary
+0002b000  4.437  plain/low entropy
+0002b400  3.287  plain/low entropy
+0002b800  3.264  plain/low entropy
+0002bc00  3.253  plain/low entropy
+0002c000  3.434  plain/low entropy
+0002c400  7.231  structured binary
+0002c800  7.126  structured binary
+0002cc00  7.482  structured binary
+0002d000  7.379  structured binary
+0002d400  7.177  structured binary
+0002d800  7.443  structured binary
+0002dc00  7.022  structured binary
+0002e000  7.031  structured binary
+0002e400  6.807  structured binary
+0002e800  6.785  structured binary
+0002ec00  6.808  structured binary
+0002f000  6.746  structured binary
+0002f400  6.811  structured binary
+0002f800  6.813  structured binary
+0002fc00  6.770  structured binary
+00030000  6.744  structured binary
+00030400  6.812  structured binary
+00030800  6.861  structured binary
+00030c00  6.893  structured binary
+00031000  6.885  structured binary
+00031400  6.877  structured binary
+00031800  6.909  structured binary
+00031c00  6.897  structured binary
+00032000  6.847  structured binary
+00032400  6.879  structured binary
+00032800  6.901  structured binary
+00032c00  6.876  structured binary
+00033000  6.892  structured binary
+00033400  6.892  structured binary
+00033800  6.933  structured binary
+00033c00  6.924  structured binary
+00034000  6.854  structured binary
+00034400  6.957  structured binary
+00034800  6.840  structured binary
+00034c00  6.937  structured binary
+00035000  6.935  structured binary
+00035400  6.953  structured binary
+00035800  6.998  structured binary
+00035c00  4.449  plain/low entropy
+00036000  6.678  structured binary
+00036400  6.892  structured binary
+00036800  6.837  structured binary
+00036c00  6.796  structured binary
+00037000  5.226  plain/low entropy
+00037400  4.414  plain/low entropy
+00037800  4.429  plain/low entropy
+00037c00  4.399  plain/low entropy
+00038000  6.719  structured binary
+00038400  6.874  structured binary
+00038800  6.795  structured binary
+00038c00  6.824  structured binary
+00039000  3.864  plain/low entropy
+00039400  3.528  plain/low entropy
+00039800  3.555  plain/low entropy
+00039c00  2.626  plain/low entropy
+0003a000  6.716  structured binary
+0003a400  6.863  structured binary
+0003a800  7.572  compressed/encrypted
+0003ac00  7.794  compressed/encrypted
+0003b000  7.825  compressed/encrypted
+0003b400  7.808  compressed/encrypted
+0003b800  7.829  compressed/encrypted
+0003bc00  7.806  compressed/encrypted
+0003c000  6.718  structured binary
+0003c400  6.900  structured binary
+0003c800  6.838  structured binary
+0003cc00  6.779  structured binary
+0003d000  5.583  plain/low entropy
+0003d400  3.153  plain/low entropy
+0003d800  3.130  plain/low entropy
+0003dc00  3.158  plain/low entropy
+0003e000  6.751  structured binary
+0003e400  6.917  structured binary
+0003e800  6.832  structured binary
+0003ec00  6.758  structured binary
+0003f000  4.476  plain/low entropy
+0003f400  3.341  plain/low entropy
+0003f800  3.130  plain/low entropy
+0003fc00  3.065  plain/low entropy
+00040000  6.752  structured binary
+00040400  6.889  structured binary
+00040800  6.859  structured binary
+00040c00  6.097  structured binary
+00041000  3.752  plain/low entropy
+00041400  3.829  plain/low entropy
+00041800  3.946  plain/low entropy
+00041c00  3.900  plain/low entropy
+00042000  6.672  structured binary
+00042400  6.889  structured binary
+00042800  6.112  structured binary
+00042c00  3.140  plain/low entropy
+00043000  3.274  plain/low entropy
+00043400  3.762  plain/low entropy
+00043800  3.484  plain/low entropy
+00043c00  3.835  plain/low entropy
+00044000  6.686  structured binary
+00044400  6.926  structured binary
+00044800  6.812  structured binary
+00044c00  6.791  structured binary
+00045000  5.371  plain/low entropy
+00045400  5.518  plain/low entropy
+00045800  5.271  plain/low entropy
+00045c00  5.388  plain/low entropy
+00046000  6.670  structured binary
+00046400  6.872  structured binary
+00046800  6.801  structured binary
+00046c00  4.442  plain/low entropy
+00047000  4.198  plain/low entropy
+00047400  4.298  plain/low entropy
+00047800  4.301  plain/low entropy
+00047c00  4.280  plain/low entropy
+00048000  6.655  structured binary
+00048400  6.857  structured binary
+00048800  5.594  plain/low entropy
+00048c00  4.280  plain/low entropy
+00049000  4.299  plain/low entropy
+00049400  4.279  plain/low entropy
+00049800  4.331  plain/low entropy
+00049c00  4.409  plain/low entropy
+0004a000  6.729  structured binary
+0004a400  6.930  structured binary
+0004a800  6.852  structured binary
+0004ac00  5.858  plain/low entropy
+0004b000  5.469  plain/low entropy
+0004b400  5.424  plain/low entropy
+0004b800  5.381  plain/low entropy
+0004bc00  5.344  plain/low entropy
+0004c000  6.698  structured binary
+0004c400  6.944  structured binary
+0004c800  6.798  structured binary
+0004cc00  4.227  plain/low entropy
+0004d000  3.646  plain/low entropy
+0004d400  3.736  plain/low entropy
+0004d800  3.789  plain/low entropy
+0004dc00  3.796  plain/low entropy
+0004e000  7.489  structured binary
+0004e400  7.474  structured binary
+0004e800  7.410  structured binary
+0004ec00  6.757  structured binary
+0004f000  6.788  structured binary
+0004f400  6.761  structured binary
+0004f800  6.764  structured binary
+0004fc00  6.741  structured binary
+00050000  6.698  structured binary
+00050400  6.772  structured binary
+00050800  6.740  structured binary
+00050c00  6.794  structured binary
+00051000  6.819  structured binary
+00051400  6.740  structured binary
+00051800  6.774  structured binary
+00051c00  6.729  structured binary
+00052000  6.736  structured binary
+00052400  6.798  structured binary
+00052800  6.800  structured binary
+00052c00  6.791  structured binary
+00053000  6.792  structured binary
+00053400  6.778  structured binary
+00053800  6.776  structured binary
+00053c00  6.820  structured binary
+00054000  6.711  structured binary
+00054400  6.826  structured binary
+00054800  6.721  structured binary
+00054c00  6.732  structured binary
+00055000  6.793  structured binary
+00055400  6.828  structured binary
+00055800  6.779  structured binary
+00055c00  6.787  structured binary
+00056000  6.730  structured binary
+00056400  6.786  structured binary
+00056800  6.785  structured binary
+00056c00  6.815  structured binary
+00057000  6.780  structured binary
+00057400  6.773  structured binary
+00057800  6.851  structured binary
+00057c00  6.890  structured binary
+00058000  6.779  structured binary
+00058400  6.882  structured binary
+00058800  6.892  structured binary
+00058c00  6.914  structured binary
+00059000  6.883  structured binary
+00059400  6.914  structured binary
+00059800  6.905  structured binary
+00059c00  6.906  structured binary
+0005a000  6.819  structured binary
+0005a400  6.897  structured binary
+0005a800  6.906  structured binary
+0005ac00  6.893  structured binary
+0005b000  6.891  structured binary
+0005b400  6.872  structured binary
+0005b800  6.942  structured binary
+0005bc00  6.889  structured binary
+0005c000  6.921  structured binary
+0005c400  1.767  plain/low entropy
+0005c800  0.000  plain/low entropy
+0005cc00  0.000  plain/low entropy
+0005d000  0.000  plain/low entropy
+0005d400  0.000  plain/low entropy
+0005d800  0.000  plain/low entropy
+0005dc00  0.000  plain/low entropy
+0005e000  6.569  structured binary
+0005e400  6.832  structured binary
+0005e800  6.812  structured binary
+0005ec00  6.809  structured binary
+0005f000  6.831  structured binary
+0005f400  7.669  compressed/encrypted
+0005f800  7.850  compressed/encrypted
+0005fc00  7.791  compressed/encrypted
+00060000  7.493  structured binary
+00060400  7.463  structured binary
+00060800  7.362  structured binary
+00060c00  7.342  structured binary
+00061000  7.509  compressed/encrypted
+00061400  7.416  structured binary
+00061800  7.445  structured binary
+00061c00  7.333  structured binary
+00062000  7.345  structured binary
+00062400  7.395  structured binary
+00062800  7.395  structured binary
+00062c00  7.446  structured binary
+00063000  7.462  structured binary
+00063400  7.379  structured binary
+00063800  7.473  structured binary
+00063c00  7.336  structured binary
+00064000  7.366  structured binary
+00064400  7.414  structured binary
+00064800  7.393  structured binary
+00064c00  6.839  structured binary
+00065000  6.811  structured binary
+00065400  6.830  structured binary
+00065800  6.830  structured binary
+00065c00  6.856  structured binary
+00066000  6.813  structured binary
+00066400  6.907  structured binary
+00066800  6.835  structured binary
+00066c00  6.854  structured binary
+00067000  6.795  structured binary
+00067400  6.835  structured binary
+00067800  6.842  structured binary
+00067c00  6.848  structured binary
+00068000  6.815  structured binary
+00068400  6.822  structured binary
+00068800  6.850  structured binary
+00068c00  6.854  structured binary
+00069000  6.869  structured binary
+00069400  6.851  structured binary
+00069800  6.917  structured binary
+00069c00  6.913  structured binary
+0006a000  6.758  structured binary
+0006a400  6.898  structured binary
+0006a800  6.840  structured binary
+0006ac00  6.853  structured binary
+0006b000  6.859  structured binary
+0006b400  6.822  structured binary
+0006b800  6.830  structured binary
+0006bc00  6.797  structured binary
+0006c000  6.764  structured binary
+0006c400  6.891  structured binary
+0006c800  6.816  structured binary
+0006cc00  6.837  structured binary
+0006d000  6.781  structured binary
+0006d400  6.874  structured binary
+0006d800  6.872  structured binary
+0006dc00  6.867  structured binary
+0006e000  6.746  structured binary
+0006e400  6.836  structured binary
+0006e800  6.820  structured binary
+0006ec00  6.816  structured binary
+0006f000  6.875  structured binary
+0006f400  6.875  structured binary
+0006f800  6.876  structured binary
+0006fc00  6.744  structured binary

@@ -1,0 +1,48 @@
+Binary Analysis Summary
+=
+
+File: 0.0627.dat
+Size: 458752 bytes
+
+Entropy: 6.564 bits/byte
+Entropy interpretation: Moderate entropy (structured binary or light compression).
+
+ASCII strings: 3737
+UTF-16 strings: 1
+
+Detected patterns:
+- JSON_OBJECT at offset 25638
+- JSON_OBJECT at offset 26187
+- JSON_OBJECT at offset 27385
+- JSON_OBJECT at offset 27575
+- JSON_OBJECT at offset 27848
+- JSON_OBJECT at offset 28292
+- JSON_OBJECT at offset 28385
+- JSON_OBJECT at offset 28388
+- JSON_OBJECT at offset 28393
+- JSON_OBJECT at offset 28747
+- JSON_OBJECT at offset 28814
+- JSON_OBJECT at offset 29065
+- JSON_OBJECT at offset 29112
+- JSON_OBJECT at offset 29718
+- JSON_OBJECT at offset 29778
+- JSON_OBJECT at offset 30268
+- JSON_OBJECT at offset 30439
+- JSON_OBJECT at offset 30546
+- JSON_OBJECT at offset 31047
+- JSON_OBJECT at offset 31062
+
+Possible file structure:
+- 256 bytes: 153 repeated blocks out of 1792 (unique 1640)
+- 512 bytes: 72 repeated blocks out of 896 (unique 825)
+- 1024 bytes: 31 repeated blocks out of 448 (unique 418)
+- 2048 bytes: 12 repeated blocks out of 224 (unique 213)
+- 4096 bytes: 3 repeated blocks out of 112 (unique 110)
+
+Compression/encryption likelihood:
+- Moderate entropy (structured binary or light compression).
+
+General interpretation:
+- If repeating blocks are present, this may be a database-style format.
+- If headers or readable strings are present, content may include embedded metadata.
+- Moderate entropy often indicates structured binary or light compression.
